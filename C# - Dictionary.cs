@@ -2,17 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 
-/*
-1. Dictionary Consists of Key value Pair. key > datatype , Value > object 
-2. We can get, add, count, remove & clear records which are in Dictionary
-3. We can convert any array or List into Dictionary
-4. In order to loop Dictionary data, we have to select KeyValuePair as Type
-5. We can use Linq extension to filter the records.
-6. Key in Dictionary must be unique.
-7. It provide fast lookups for values using keys.
-8. its class is present in System.Collections.Generic namespace.
-*/
-
 namespace Dictionary
 {
     class Program
