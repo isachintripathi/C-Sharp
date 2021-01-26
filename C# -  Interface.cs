@@ -1,12 +1,12 @@
-﻿// 0. Interface are in use when we do not know in future functionalities which are not common.
-// 1. Interface consists of public and abstract methods by default
+﻿// 0. Interface are in use when we do not know future Implementation or functionalities which are not common.
+// 1. Interface consists of public and abstract methods by default.
 // 2. Interface methods can't be private.
 // 3. Interface can extend multiple Interface. 
 // 4. Class can Implement multiple Interface.
 // 5. A class has to implement Interface members of implemented Interface.
 // 6. Interface members doesn't have implementation.
 // 7. They can't be sealed or static.
-
+// 8. Interface is by default public and abstract.
 using System;
 
 namespace ConsoleInterface
