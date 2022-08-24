@@ -6,7 +6,6 @@
 // 5. A class has to implement Interface members of implemented Interface.
 // 6. Interface members doesn't have implementation.
 // 7. They can't be sealed or static.
-// 8. Interface is by default public and abstract.
 using System;
 
 namespace ConsoleInterface
