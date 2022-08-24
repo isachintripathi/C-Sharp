@@ -1,4 +1,4 @@
-﻿// 0. Abstract classes are in use when we have some common senarios/functionality.
+﻿// 0. Abstract classes are in use when we have some common scenarios/functionality.
 // 1. We can not create an Instace of an abstract class. 
 // 2. Abstract classes can't be sealed or static.
 // 3. Abstract Class can consist of Abstract and Concrete classes both. 
